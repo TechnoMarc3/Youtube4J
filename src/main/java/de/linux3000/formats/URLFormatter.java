@@ -62,7 +62,7 @@ public class URLFormatter {
             }
         }
 
-        System.out.println("has new videos: " + hasNewVideos);
+       
     }
 
     private void readJsonData(String info, YoutubeChannel channel) throws ParseException {
